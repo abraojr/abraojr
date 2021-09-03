@@ -2,13 +2,13 @@
 <img align="right" border-radius=" 0 35px 0px 70px" alt="Programing" src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966"  width="300"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack Java, with Spring Boot, Spring Cloud, Spring Data JPA, Microservices and Tests.But you can ask me about C#, JavaScript and others...
+- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC and Tests. But you can ask me about Java, JavaScript and others...
 - 🤓 &nbsp; I love to learn new technologies and I'm fascinated by mathematics and logic.
 - 🎓 &nbsp; I'm currently in the 4th semester of Computer Engineering at Faculdade de Tecnologia Termomecanica (FTT)
-- 💼 &nbsp; Open to work as Intern in: Software Engineer and FullStack Developer.
+- 💼 &nbsp; Software Development Intern at T-Systems do Brasil
 - 🌱 &nbsp; Enthusiastic about learning new program languages and technologies.
 - ✍️ &nbsp; I love drama, suspense and comedy movies, I like to play video game too.
-- ☕ &nbsp; <i>"Ego = 1/ Knowledge: More the knowledge lesser the ego, lesser the knowledge more the ego.."</i> 
+- ☕ &nbsp; <i>"Ego = 1/ Knowledge: More the knowledge lesser the ego, lesser the knowledge more the ego..."</i> 
 <h3>🛠 Technologies</h3>
 
 - 💻 Backend: &nbsp; ![Python](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)&nbsp;
