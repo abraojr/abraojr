@@ -1,10 +1,10 @@
-<h2> Hey there! I'm Abrão. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="50"></h2>
+<h2> Hey there! I'm Abrão. 👋</h2>
 <img align="right" border-radius=" 0 35px 0px 70px" alt="Programing" src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966"  width="300"/>
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>👨 About Me </h3>
 
-- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC and Tests. But you can ask me about Java, JavaScript and others...
+- 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC, Angular and Tests. But you can ask me about Java, JavaScript and others...
 - 🤓 &nbsp; I love to learn new technologies and I'm fascinated by mathematics and logic.
-- 🎓 &nbsp; I'm currently in the 4th semester of Computer Engineering at Faculdade de Tecnologia Termomecanica (FTT)
+- 🎓 &nbsp; I'm currently in the 5th semester of Computer Engineering at Faculdade de Tecnologia Termomecanica (FTT)
 - 💼 &nbsp; Software Development Intern at T-Systems do Brasil
 - 🌱 &nbsp; Enthusiastic about learning new program languages and technologies.
 - ✍️ &nbsp; I love drama, suspense and comedy movies, I like to play video game too.
