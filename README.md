@@ -36,12 +36,15 @@
 <br>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abraojr&show_icons=true&theme=radical)
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraojr&layout=compact" alt="Languages"/> 
+</p>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abraojr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abraojr&count_private=true&show_icons=true&theme=radical" alt="Stats"/> 
+</p>
 
 <h3 align="center"> 🤝🏻 Let's Talk? </h3>
 <p align="center">  
