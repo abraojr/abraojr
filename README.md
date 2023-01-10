@@ -39,16 +39,11 @@
 
 <br>
 
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraojr&layout=compact&theme=radical" alt="Languages"/> 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abraojr&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abraojr&count_private=true&show_icons=true&theme=radical" alt="Stats"/> 
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abraojr&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"> 🤝🏻 Let's Talk? </h3>
 <p align="center">  
