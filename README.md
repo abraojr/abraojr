@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC, Angular and Tests. But you can ask me about Java, JavaScript and others...
 - 🤓 &nbsp; I love to learn new technologies and I'm fascinated by mathematics and logic.
-- 🎓 &nbsp; I'm currently in the 5th semester of Computer Engineering at Faculdade de Tecnologia Termomecanica (FTT)
+- 🎓 &nbsp; I'm currently in the 7th semester of Computer Engineering at Faculdade de Engenheiro Salvador Arena (FESA)
 - 💼 &nbsp; Software Development Intern at T-Systems do Brasil
 - 🌱 &nbsp; Enthusiastic about learning new program languages and technologies.
 - ✍️ &nbsp; I love drama, suspense and comedy movies, I like to play video game too.
