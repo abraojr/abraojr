@@ -4,16 +4,17 @@
 
 - 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC, Angular and Tests. But you can ask me about Java, JavaScript and others...
 - 🤓 &nbsp; I love to learn new technologies and I'm fascinated by mathematics and logic.
-- 🎓 &nbsp; I'm currently in the 7th semester of Computer Engineering at Faculdade Engenheiro Salvador Arena (FESA)
-- 💼 &nbsp; Software Development Intern at T-Systems do Brasil
+- 🎓 &nbsp; I'm currently in the 8th semester of Computer Engineering at Faculdade Engenheiro Salvador Arena (FESA)
+- 💼 &nbsp; Software Developer II at T-Systems do Brasil
 - 🌱 &nbsp; Enthusiastic about learning new program languages and technologies.
-- ✍️ &nbsp; I love drama, suspense and comedy movies, I like to play video game too.
-- ☕ &nbsp; <i>"Ego = 1/ Knowledge: More the knowledge lesser the ego, lesser the knowledge more the ego..."</i> 
-<h3>🛠 Technologies</h3>
+
 
 - 💻 Backend: &nbsp; ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)&nbsp;
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
  
 - 🌐 Frontend:&nbsp; ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
