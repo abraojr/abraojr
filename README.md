@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; Right now, I'm focused on specializing as Dev FullStack .NET, with ASP.NET Core, MVC, Angular and Tests. But you can ask me about Java, JavaScript and others...
 - 🤓 &nbsp; I love to learn new technologies and I'm fascinated by mathematics and logic.
-- 🎓 &nbsp; Graduated in Computer Engineering from Faculdade Engenheiro Salvador Arena (FESA)
+- 🎓 &nbsp; Computer Engineer (FESA), Post-Graduate in .Net Software Architecture (FIAP)
 - 💼 &nbsp; Software Developer III at T-Systems do Brasil
 - 🌱 &nbsp; Enthusiastic about learning new program languages and technologies.
 
